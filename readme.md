@@ -1,13 +1,3 @@
-
-<div align="center">
-
-  
-![Profile Views](https://komarev.com/ghpvc/?username=TheUserWW&color=blue&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/TheUserWW?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/TheUserWW?style=social)
-</div>
-
-
 <div align="center">
   
 ![TheUserWW's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheUserWW&show_icons=true&theme=radical&hide_border=true)
