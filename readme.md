@@ -1,8 +1,4 @@
 <div align="center">
-  
-<!-- 动态标题 + 访客计数器 (美化元素) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+TheUserWW;Welcome+to+my+profile!" alt="Typing SVG" />
-  
 
 <!-- 卡片区域：使用flex实现左右并排，适配移动端折行 -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
