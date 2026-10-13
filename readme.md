@@ -49,15 +49,5 @@
 </div>
 
 
-<!-- 可选的访客计数 badge (带动态效果) -->
-<a href="https://github.com/TheUserWW">
-  <img src="https://komarev.com/ghpvc/?username=TheUserWW&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge&base=1020" alt="Profile views" />
-</a>
-
-<!-- 旧代码保留注释 (如果想恢复原样，只需删除上面内容，取消下面注释) -->
-<!-- 
-![TheUserWW's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheUserWW&show_icons=true&theme=radical&hide_border=true&t=202502141430)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheUserWW&layout=compact&theme=radical&hide_border=true&t=202502141430)
--->
 
 </div>
